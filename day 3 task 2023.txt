@@ -1,0 +1,39 @@
+1.var resume = {
+"name": "deepak",
+"age": "24",
+"education": "b.com",
+"language known": "english",
+"skills": "good communication and interpersonal skills",
+"objective": "to become a website developer",
+};
+for(var a in resume){
+console.log(a + ":" +resume[a]);
+}
+
+
+
+
+
+
+2.var resume = {
+"name": "deepak",
+"age": "24",
+"education": "b.com",
+"language known": "english",
+"skills": "good communication and interpersonal skills",
+"objective": "to become a website developer",
+};
+
+
+
+
+
+3.In JavaScript, there are different types of objects that can be used to manipulate and access different types of data. One of these types of objects is the "window" object, which refers to the global object in the browser and represents the current web page or application being viewed. The window object provides access to the browser's window, and it can be used to manipulate the current page such as changing the current URL, manipulating the size and position of the browser window, handling events and manipulating the browser's history.
+
+Another type of object in JavaScript is the "document" object, which generally refers to a complete collection of text and other elements that make up a webpage or other type of document. A "document" object can be used to access and manipulate the content, layout, and structure of a webpage or other type of document. This can include things like adding or removing elements, changing the text or images displayed, and controlling the overall layout and appearance of the document.
+
+A "screen" object in JavaScript typically refers to the display screen of a device, such as a computer or mobile device. It can be used to access information about the screen's size, resolution, and other properties, and can also be used to control the display of elements on the screen, such as hiding or showing elements, changing their size or position, etc.
+
+In summary, "window" object refers to the global object in the browser and represents the current web page or application being viewed, "document" object refers to a complete collection of text and elements that make up a webpage and "screen" object refers to the display screen of a device and can be used to access information about the screen's size, resolution, and other properties.
+
+
